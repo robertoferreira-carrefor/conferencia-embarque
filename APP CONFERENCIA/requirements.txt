@@ -3,4 +3,4 @@ pandas
 openpyxl
 xlsxwriter
 pyzbar
-pillow
+Pillow
