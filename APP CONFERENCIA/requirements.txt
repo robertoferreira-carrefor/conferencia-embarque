@@ -1,6 +1,4 @@
 streamlit
 pandas
-pyzbar
-pillow
 openpyxl
-streamlit-gsheets
+xlsxwriter
